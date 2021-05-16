@@ -4,7 +4,7 @@
 Correlation between parameters
 `
 
-<img src="/screenshot/Heatmap" alt="Heatmap"/>
+<img src="/screenshot/Heatmap.png" alt="Heatmap"/>
 
 `
 Department distribution
@@ -28,5 +28,5 @@ Actual
 Productivity
 `
 
-<img src="/screenshot/Week_productivity" alt="Week_productivity"/>
-<img src="/screenshot/Month_productivity" alt="Month_productivity"/>
+<img src="/screenshot/Week_productivity.png" alt="Week_productivity"/>
+<img src="/screenshot/Month_productivity.png" alt="Month_productivity"/>
