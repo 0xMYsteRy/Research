@@ -29,4 +29,5 @@ Productivity
 `
 
 <img src="/screenshot/Week_productivity.png" alt="Week_productivity"/>
-<img src="/screenshot/Month_productivity.png" alt="Month_productivity"/>
+<img src="/screenshot/Month_Productivity.png" alt="Month_productivity"/>
+
